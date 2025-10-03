@@ -227,7 +227,7 @@
 
 ## Here Are Some Recommendations
 
-<a href="https://github.com/pyKinsu/How-To-Choose-Laptop/main/Laptops.md">
+<a href="https://github.com/pyKinsu/How-To-Choose-Laptop/blob/main/Laptops.md">
   <img src="https://img.shields.io/badge/View%20Laptop%20Examples-Click%20Here-blue?style=for-the-badge&logo=laptop&logoColor=white" alt="Laptop Examples">
 </a>
 
